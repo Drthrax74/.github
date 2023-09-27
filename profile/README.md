@@ -8,8 +8,8 @@ Si vous souhaitez contribuer, n'hésiter pas à me contacter.
 
 Me contacter:
 ```
-mje2017.afpa[AT]gmail.com
-
+Email   : mje2017.afpa[AT]gmail.com
+Discord : Drthrax
 ```
 
 
