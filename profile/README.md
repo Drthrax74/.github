@@ -2,7 +2,15 @@
 
 Je suis Marc jaffré, je suis actuellement Technicien en Assistance Informatique (AFPA), je passe actuellement un Technicien Supérieur en Systèmes & Réseaux.
 
-Je suis auto-didacte, je partages mes travaux sur les différents Systèmes que j'ai pu travailler.
+Je suis auto-didacte et je partages mes travaux sur les différents Systèmes que j'ai pu travailler.
+
+Si vous souhaitez contribuer, n'hésiter pas à me contacter.
+
+Me contacter:
+```
+mje2017.afpa[AT]gmail.com
+
+```
 
 
 <!--
