@@ -6,7 +6,7 @@ Je suis auto-didacte et je partages mes travaux sur les différents Systèmes qu
 
 Le dépôt GITHUB est un espace Privatif créer par mes soins ! C'est moi qui gères les accès !
 
-Si vous voulez consulter mon espace, il me faut que tu me transmets ton EMAIL pour que je t'ajoutes en tant qu'utilisateur de mon dépôt pour que tu puisses naviguer.
+Si vous voulez consulter mon espace: Transmettez moi votre email ou votre pseudo pour que je vous ajoutes.
 
 Si vous souhaitez contribuer, n'hésiter pas à me contacter.
 
