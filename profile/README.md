@@ -4,6 +4,10 @@ Je suis Marc jaffré, je suis actuellement Technicien en Assistance Informatique
 
 Je suis auto-didacte et je partages mes travaux sur les différents Systèmes que j'ai pu travailler.
 
+Le dépôt GITHUB est un espace Privatif créer par mes soins ! C'est moi qui gères les accès !
+
+Si vous voulez consulter mon espace, il me faut que tu me transmets ton EMAIL pour que je t'ajoutes en tant qu'utilisateur de mon dépôt pour que tu puisses naviguer.
+
 Si vous souhaitez contribuer, n'hésiter pas à me contacter.
 
 Me contacter:
