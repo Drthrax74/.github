@@ -13,7 +13,7 @@ Si vous souhaitez contribuer, n'hésiter pas à me contacter.
 🧙 Me contacter:
 ```
 Email   : mje2017.afpa[AT]gmail.com
-Discord : Drthrax
+Discord : Drthrax74
 ```
 
 
